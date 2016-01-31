@@ -69,8 +69,5 @@ Plugin 'airblade/vim-gitgutter'
 " gitv
 Plugin 'vim-scripts/gitv'
 
-" autosave
-Plugin '907th/vim-auto-save'
-
 call vundle#end()
 filetype plugin indent on
